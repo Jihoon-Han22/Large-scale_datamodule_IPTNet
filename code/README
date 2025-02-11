@@ -1,0 +1,29 @@
+
+Code and data for the paper "Joint Video Summarization 
+and Moment Localization by Cross-Task Sample Transfer."
+
+<br/>
+python version: 3.6.6
+<br/>
+pytorch version: 1.0.1
+<br/>
+
+<br/><br/>
+Example to run the code:
+<br/>
+<br/>
+python summe_main.py --splits summe.yml
+
+python tvsum_main.py --splits tvsum.yml
+
+
+<br/><br/>
+
+Thank for some open-source code from [VASNet](https://github.com/ok1zjf/VASNet),
+[DR-DSN](https://github.com/KaiyangZhou/pytorch-vsumm-reinforce),
+[DSNet](https://github.com/li-plus/DSNet),
+[KTS Algorithm](https://github.com/pathak22/videoseg/tree/master/lib/kts),
+[VSLNet](https://github.com/IsaacChanghau/VSLNet).
+
+If there are any other questions, please contact jianghao@stu.pku.edu.cn.
+
